@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/growkudos/elastic/v7/uritemplates"
 )
 
 // IndicesGetService retrieves information about one or more indices.

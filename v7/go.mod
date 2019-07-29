@@ -1,4 +1,4 @@
-module github.com/olivere/elastic/v7
+module github.com/growkudos/elastic/v7
 
 go 1.12
 

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/growkudos/elastic/v7/uritemplates"
 )
 
 // XPackSecurityPutRoleMappingService create or update a role mapping by its name.
